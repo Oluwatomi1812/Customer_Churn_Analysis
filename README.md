@@ -43,6 +43,12 @@ These findings show associations between customer characteristics and churn; the
 - SQL analysis
 - Power BI dashboard
 
+- ## Power BI Dashboard
+
+The dashboard summarises customer churn patterns across contract types, internet service, tenure groups, technical support status, and monthly charges.
+
+![Telco Customer Churn Dashboard](images/churn-dashboard.png)
+
 *Project files and supporting materials will be added as they are prepared.*
 
 ## Limitations
