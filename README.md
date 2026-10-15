@@ -49,6 +49,7 @@ The dashboard summarises customer churn patterns across contract types, internet
 ![Telco Customer Churn Dashboard](images/churn-dashboard.png)
 
 **Project Report:** [View the full analysis report (PDF)](Telco_Customer_Churn_Analysis_Report.pdf)
+
 *Project files and supporting materials will be added as they are prepared.*
 
 ## Limitations
