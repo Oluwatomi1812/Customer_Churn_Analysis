@@ -48,9 +48,9 @@ These findings show associations between customer characteristics and churn; the
 The dashboard summarises customer churn patterns across contract types, internet service, tenure groups, technical support status, and monthly charges.
 ![Telco Customer Churn Dashboard](images/churn-dashboard.png)
 
-- **SQL Analysis:** [View SQL queries](./your-sql-filename.sql)
+- **SQL Analysis:** [View SQL queries](./Customer_Churn_Analysis.sql)
 
-**Project Report:** [View the full analysis report (PDF)](Telco_Customer_Churn_Analysis_Report.pdf)
+**Project Report:** [View the full analysis report (PDF)](Customer_Churn_Analysis_Report.pdf)
 
 *Project files and supporting materials will be added as they are prepared.*
 
